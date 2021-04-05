@@ -1,4 +1,4 @@
-![Image text](https://sanmingxuedi.github.io/index.html/image-folder/3ming.jpg))
+![图片](png3ming.png)
 
 
 
