@@ -1,17 +1,4 @@
-![Image text](<body>
-   <img src="./3ming.jpg" alt="三明">
- </body>)
-<!DOC TYPE html>
-<html lang="en">
-<body>
-  <img src="./3ming.jpg" alt="三明">
-</body>
-<head>
-  <meta charset="UTF-8">
-  <title>demo</title>
-  <link rel="shortcut icon" href="/favicon.ico" />
-  <link rel="Bookmark" href="/favicon.ico">
-</head>
-</html>
+![Image text](https://sanmingxuedi.github.io/index.html/image-folder/3ming.jpg))
+
 
 
