@@ -1,3 +1,6 @@
+![Image text](<body>
+   <img src="./3ming.jpg" alt="三明">
+ </body>)
 <!DOC TYPE html>
 <html lang="en">
 <body>
