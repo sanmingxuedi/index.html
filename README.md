@@ -1,6 +1,6 @@
 
 <head>
-<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="icon" href="https://sanmingxuedi.github.io/index.html/favicon.ico" type="image/X-icon>
 </head>
 <p>Hello 大家好</p>
 <p>我是游雪香，这是我的个人网站。 </p>
