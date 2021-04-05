@@ -1,5 +1,6 @@
 
 <head>
+<p>Hello 大家好</p>
 <link rel="shortcut icon" href="/favicon.ico" />
 <link rel="Bookmark" href="/favicon.ico">
 </head>
