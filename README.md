@@ -1,6 +1,7 @@
 
 <head>
 <link rel="shortcut icon" href="/favicon.ico" />
+<link rel="Bookmark" href="/favicon.ico">
 </head>
 <p>Hello 大家好</p>
 <p>我是游雪香，这是我的个人网站。 </p>
