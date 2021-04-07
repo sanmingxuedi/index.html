@@ -1,4 +1,22 @@
-#三明学邸
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=devic-vidth, initial-scale=1.0">
+    <title>图片列表</title>
+</head>
+<body>
+    <ul>
+       <li>
+          <a href="">
+                <img src="https://raw.githubusercontent.com/sanmingxuedi/index.html/main/%E6%9C%AA%E6%A0%87%E9%A2%98.png" alt="">
+          </a>
+       </li>
+     </ul>
+</body>
+
+</html>
+
 ![图片](https://raw.githubusercontent.com/sanmingxuedi/index.html/main/%E6%9C%AA%E6%A0%87%E9%A2%98.png)
 <head>
     <link rel="icon" href="https://raw.githubusercontent.com/sanmingxuedi/index.html/main/favicon.ico" type="image/x-icon" href="favicon.ico"/>
