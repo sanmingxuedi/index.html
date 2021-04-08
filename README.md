@@ -13,12 +13,12 @@
 #triangle{
     width: 0;
     height: 0;
-    border: 60px solid transparent;
+    border: 40px solid transparent;
     border-bottom: 100px solid blue;
     }
 #rectangle {
-width: 200px;
-height: 100px;
+width: 80px;
+height: 60px;
 background: red;
 }
 </style>
