@@ -9,7 +9,7 @@
 </head>
 <body>
  <img src="https://raw.githubusercontent.com/sanmingxuedi/index.html/main/1617620168139.jpg" width="200"  height="200"/><b>三明学邸</b>
-  <img src="https://raw.githubusercontent.com/sanmingxuedi/index.html/main/%E6%9C%AA%E6%A0%87%E9%A2%98.png" width="200"  height="200"/>
+  <img src="https://raw.githubusercontent.com/sanmingxuedi/index.html/main/%E6%9C%AA%E6%A0%87%E9%A2%98.png" width="600"  height="200"/>
 <h1>我的第一个标题</h1>
 <p>我的第一个段落。
 
