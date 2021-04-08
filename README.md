@@ -4,8 +4,8 @@
 <head>
 <meta charset="utf-8">
 <title>ZONGXP</title>
-<link rel="icon" href="https://raw.githubusercontent.com/sanmingxuedi/index.html/main/favicon.ico" type="image/x-icon" href="favicon.ico"/>
-    <link rel="shortcut icon" href="https://raw.githubusercontent.com/sanmingxuedi/index.html/main/favicon.ico" type="image/x-icon" href="favicon.ico"/>
+<link rel="icon" href="https://raw.githubusercontent.com/sanmingxuedi/index.html/main/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
 </head>
 <body>
  <img src="https://raw.githubusercontent.com/sanmingxuedi/index.html/main/1617620168139.jpg" width="60"  height="60"/><b>三明学邸</b>
