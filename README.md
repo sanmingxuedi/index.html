@@ -20,6 +20,7 @@
 width: 80px;
 height: 60px;
 background: red;
+background-position:10px -40px;
 }
 </style>
 <div id="triangle"></div>
