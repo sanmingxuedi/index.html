@@ -8,7 +8,7 @@
     <link rel="shortcut icon" href="https://raw.githubusercontent.com/sanmingxuedi/index.html/main/favicon.ico" type="image/x-icon" href="favicon.ico"/>
 </head>
 <body>
- <img src="/main/1617620168139.jpg" width="20"  height="20"/><b>三明学邸</b>
+ <img src="https://raw.githubusercontent.com/sanmingxuedi/index.html/main/1617620168139.jpg" width="20"  height="20"/><b>三明学邸</b>
   <img src="https://raw.githubusercontent.com/sanmingxuedi/index.html/main/%E6%9C%AA%E6%A0%87%E9%A2%98.png" width="20"  height="20"/>
 <h1>我的第一个标题</h1>
 <p>我的第一个段落。
@@ -43,6 +43,7 @@
         <td>row 2, cell 3</td>
         <td>row 2, cell 4</td>
     </tr>
+    <tr>
         <td>row 2, cell 1</td>
         <td>row 2, cell 2</td>
         <td>row 2, cell 3</td>
