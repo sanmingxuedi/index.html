@@ -48,7 +48,7 @@ border-bottom-left-radius: 100px;
 border-bottom-right-radius: 100px;
 position: relative;
 display: block;
-top:-30px;
+top:30px;
 }
 #triangle-down{
 width: 62px;
@@ -61,7 +61,7 @@ background: red;
 position: absolute;
 display: block;
 
-left:145px;
+left:490px;
 
 content: '';
 }
