@@ -6,47 +6,38 @@
 <title>SANMING</title>
 </head>
 <body>
-
 <style>
 #triangle-up {
-width: 200px;
-height: 200px;
-border-left: 50px solid transparent;
+width: 50px;
+height: 50px;
+border-left: 13px solid transparent;
 
-border-right: 50px solid red;
-border-top: 50px solid red;
-border-bottom: 50px solid red;
-border-top-left-radius: 100px;
-border-top-right-radius: 100px;
-border-bottom-left-radius: 100px;
-border-bottom-right-radius: 100px;
+border-right: 13px solid red;
+border-top: 13px solid red;
+border-bottom: 13px solid red;
+border-top-left-radius: 50px;
+border-top-right-radius: 50px;
+border-bottom-left-radius: 50px;
+border-bottom-right-radius: 50px;
 position: relative;
 display: block;
-top:30px;
+top:16px;
 }
 #triangle-down{
-width: 62px;
-height: 200px;
-margin-left:20px;
--webkit-transform: skew(25deg);
--moz-transform: skew(20deg);
--o-transform: skew(20deg);
+width: 15px;
+height: 50px;
+margin-left:5px;
+-webkit-transform: skew(26deg);
+-moz-transform: skew(10deg);
 background: red;
-position: absolute;
-display: block;
-
-left:70px;
-
+position: relative;
+top:0px;
+left:-5px;
 content: '';
 }
 </style>
-
 <div id="triangle-up"></div>
-
 <div id="triangle-down"></div>
-
- <img src="https://raw.githubusercontent.com/sanmingxuedi/index.html/main/1617620168139.jpg" width="60"  height="60"/><b>三明学邸</b>
-  <img src="https://raw.githubusercontent.com/sanmingxuedi/index.html/main/%E6%9C%AA%E6%A0%87%E9%A2%98.png" width="60"  height="60"/>
 <h1>我的第一个标题</h1>
 <p>我的第一个段落。
 
