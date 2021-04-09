@@ -1,9 +1,30 @@
-
-
+<!DOCTYPE html>
 <html>
+<html lang="en">
 <head>
-<meta charset="utf-8">
-<title>SANMING</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>首页</title>
+    <style>
+        h1{
+            font-family:'Microsoft YaHei' 'Lucida Sans','Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+            
+            color:blue;
+            font-size: 30px;
+            font-weight: bold;
+            font-style: normal;
+            letter-spacing:0px;
+        }
+     .demo * {
+ width: 130px;
+ height: 50px;
+ border:1px solid transparent;
+ margin: 15px;
+position: absolute;
+top:40px;
+left:438px;
+ }
+    </style>
 </head>
 <body>
 <style>
@@ -19,9 +40,8 @@ border-top-left-radius: 50px;
 border-top-right-radius: 50px;
 border-bottom-left-radius: 50px;
 border-bottom-right-radius: 50px;
-position: relative;
-display: block;
-top:16px;
+position: absolute;
+top:0px;
 }
 #triangle-down{
 width: 15px;
@@ -29,15 +49,18 @@ height: 50px;
 margin-left:5px;
 -webkit-transform: skew(26deg);
 -moz-transform: skew(10deg);
+
 background: red;
-position: relative;
-top:0px;
-left:-5px;
-content: '';
+position:  absolute;/*relative;*/
+top:34px;
+left:427px;
 }
 </style>
 <div id="triangle-up"></div>
 <div id="triangle-down"></div>
+<div class="demo">
+   <h1> 三明学邸</h1>
+    </div>
 <h1>我的第一个标题</h1>
 <p>我的第一个段落。
 
