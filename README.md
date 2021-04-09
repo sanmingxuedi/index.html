@@ -3,37 +3,11 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>ZONGXP</title>
-<link rel="icon" href="https://raw.githubusercontent.com/sanmingxuedi/index.html/main/favicon.ico" type="image/x-icon">
-    <link rel="shortcut icon" href="../favicon.ico" type="image/x-icon">
+<title>SANMING</title>
 </head>
 <body>
 
 <style>
-#triangle{
-    width: 0;
-    height: 0;
-    border: 50px solid transparent;
-    border-bottom: 30px solid blue;
-    background-position:0px 0px;
-
-    }
-#rectangle {
-width: 60px;
-height: 40px;
-background: red;
-background-position:15px -30px;
-}
-#triangle-up {
-width: 100px;
-height: 100px;
-border: 100px solid transparent;
-border-right: 100px solid red;
-border-left: 100px solid blue;
-border-top:100px solid yellow;
-border-bottom:100px solid green;
-background-position:300px -50px;
-}
 #triangle-up {
 width: 200px;
 height: 200px;
@@ -66,9 +40,6 @@ left:90px;
 content: '';
 }
 </style>
-<div id="triangle"></div>
-<div id="rectangle"></div>
-<div id="rectangle-up"></div>
 
 <div id="triangle-up"></div>
 
