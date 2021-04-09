@@ -60,7 +60,7 @@ background: red;
 position: absolute;
 display: block;
 
-left:45px;
+left:145px;
 
 content: '';
 }
