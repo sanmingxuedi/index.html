@@ -35,7 +35,7 @@ background: red;
 position: absolute;
 display: block;
 
-left:90px;
+left:70px;
 
 content: '';
 }
