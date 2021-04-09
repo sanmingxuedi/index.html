@@ -61,7 +61,7 @@ background: red;
 position: absolute;
 display: block;
 
-left:490px;
+left:90px;
 
 content: '';
 }
