@@ -33,12 +33,45 @@ border-left: 100px solid blue;
 border-top:100px solid yellow;
 border-bottom:100px solid green;
 background-position:300px -50px;
+}
+#triangle-up {
+width: 200px;
+height: 200px;
+border-left: 50px solid transparent;
 
+border-right: 50px solid red;
+border-top: 50px solid red;
+border-bottom: 50px solid red;
+border-top-left-radius: 100px;
+border-top-right-radius: 100px;
+border-bottom-left-radius: 100px;
+border-bottom-right-radius: 100px;
+position: relative;
+display: block;
+}
+#triangle-down{
+width: 62px;
+height: 200px;
+margin-left:20px;
+-webkit-transform: skew(25deg);
+-moz-transform: skew(20deg);
+-o-transform: skew(20deg);
+background: red;
+position: absolute;
+display: block;
+
+left:495px;
+
+content: '';
 }
 </style>
 <div id="triangle"></div>
 <div id="rectangle"></div>
 <div id="rectangle-up"></div>
+
+<div id="triangle-up"></div>
+
+<div id="triangle-down"></div>
 
  <img src="https://raw.githubusercontent.com/sanmingxuedi/index.html/main/1617620168139.jpg" width="60"  height="60"/><b>三明学邸</b>
   <img src="https://raw.githubusercontent.com/sanmingxuedi/index.html/main/%E6%9C%AA%E6%A0%87%E9%A2%98.png" width="60"  height="60"/>
