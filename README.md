@@ -26,7 +26,7 @@ left:438px;
  }
     </style>
 </head>
-<body>
+<body style="margin: 0;">
 <style>
 #triangle-up {
 width: 50px;
