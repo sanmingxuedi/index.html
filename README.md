@@ -6,6 +6,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>首页</title>
     <style>
+      #main{
+	width: 1500px;
+	margin: 0 auto;
+	border:1px solid dodgerblue;
+}
         h1{
             font-family:'Microsoft YaHei' 'Lucida Sans','Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
             
@@ -26,7 +31,7 @@ left:438px;
  }
     </style>
 </head>
-<body style="margin: 0;">
+<body>
 <style>
 #triangle-up {
 width: 50px;
@@ -56,6 +61,7 @@ top:34px;
 left:427px;
 }
 </style>
+<div id="main">
 <div id="triangle-up"></div>
 <div id="triangle-down"></div>
 <div class="demo">
@@ -103,5 +109,6 @@ left:427px;
     </tr>
 </table>
 </p>
+</div>
 </body>
 </html>
