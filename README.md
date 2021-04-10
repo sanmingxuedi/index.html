@@ -7,9 +7,12 @@
     <title>首页</title>
     <style>
       #main{
-	width: 1500px;
+	width: 700px;
 	margin: 0 auto;
 	border:1px solid dodgerblue;
+        position: absolute;
+        top:0px;
+        left:0px;
 }
         h1{
             font-family:'Microsoft YaHei' 'Lucida Sans','Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
