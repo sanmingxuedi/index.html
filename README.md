@@ -1,4 +1,6 @@
-<!DOCTYPE html>
+
+
+
 <html>
 <html lang="en">
 <head>
@@ -6,18 +8,21 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>首页</title>
     <style>
-      #main{
-	width: 700px;
-	margin: 0 auto;
+    
+   #man{
+	width: 393px;
+       height:100px;
+	margin: 0auto;
 	border:1px solid dodgerblue;
-        position: absolute;
+	position: absolute;
         top:0px;
         left:0px;
+ background-color:#000;
 }
         h1{
             font-family:'Microsoft YaHei' 'Lucida Sans','Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
             
-            color:blue;
+            color:yellow;
             font-size: 30px;
             font-weight: bold;
             font-style: normal;
@@ -30,47 +35,36 @@
  margin: 15px;
 position: absolute;
 top:40px;
-left:438px;
+left:20px;
  }
+ #triangle-up {
+width: 50px;height: 50px;border-left: 13px solid transparent;border-right: 13px solid red;border-top: 13px solid red;border-bottom: 13px solid red;border-top-left-radius: 50px;border-top-right-radius: 50px;border-bottom-left-radius: 50px;border-bottom-right-radius: 50px;
+transform:rotate(-10deg);
+position: absolute;top:0px;
+}
+#trapezoid-down {
+width: 13px;/*要等于border-right的值*/
+height: 66px;/*尾巴长度*/
+border-right: 13px solid red;/*等于宽*/
+border-top:3px solid transparent;/*一边斜度*/
+border-bottom:5px solid transparent;/*另一边斜度*/
+transform:rotate(-20deg);
+position:  absolute;/*relative;*/
+top:35px;
+left:17px;
+}
     </style>
 </head>
 <body>
-<style>
-#triangle-up {
-width: 50px;
-height: 50px;
-border-left: 13px solid transparent;
-
-border-right: 13px solid red;
-border-top: 13px solid red;
-border-bottom: 13px solid red;
-border-top-left-radius: 50px;
-border-top-right-radius: 50px;
-border-bottom-left-radius: 50px;
-border-bottom-right-radius: 50px;
-position: absolute;
-top:0px;
-}
-#triangle-down{
-width: 15px;
-height: 50px;
-margin-left:5px;
--webkit-transform: skew(26deg);
--moz-transform: skew(10deg);
-
-background: red;
-position:  absolute;/*relative;*/
-top:34px;
-left:427px;
-}
-</style>
-<div id="main">
+<div id="man">
 <div id="triangle-up"></div>
-<div id="triangle-down"></div>
+<div id="trapezoid-down"></div>
+</div>
 <div class="demo">
    <h1> 三明学邸</h1>
     </div>
-<h1>我的第一个标题</h1>
+
+<h2>我的第一个标题</h2>
 <p>我的第一个段落。
 
  <a href="https://sanmingxuedi.github.io/index.html">这是一个链接使用了 href 属性</a>
@@ -112,6 +106,5 @@ left:427px;
     </tr>
 </table>
 </p>
-</div>
 </body>
 </html>
