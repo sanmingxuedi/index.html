@@ -13,7 +13,7 @@
 	width: 100%;
 	height: 115px;
 	background-color: #000;
-	
+	position:relative;
 }
 
 .zhong{
@@ -34,24 +34,23 @@
 	border-right: 13px solid red;
 	border-top: 13px solid red;
 	border-bottom: 13px solid red;
-	border-top-right-radius: 50px;
-	border-top-left-radius: 50px;
-	border-bottom-left-radius: 50px;
-	border-bottom-right-radius: 50px;
+	border-top-right-radius: 15px;
+	border-top-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	border-bottom-right-radius: 15px;
 	transform: rotate(-10deg);
-	position:relative;
+	position:absolute;
 	top: 4px;
 	
 }
-.tou1:before{
-	  content: "";
-	  display: block;
+.tou1-before{
+	  
 	  width: 13px;
       height: 66px;
       border-right: 13px solid red;
 	  border-top: 3px solid transparent;
 	  border-bottom: 5px solid transparent;
-	  transform: rotate(-20deg);
+	  transform: rotate(-22deg);
 	  position:relative;
 	  top: 28px;
 	  left: -9px;
