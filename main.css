@@ -1,0 +1,131 @@
+
+.main{
+	width:100%;
+	
+	margin:0px auto;
+	
+	
+	background-color: #8fffed;
+	}
+	.tou{
+	margin-top: 0px;
+	width: 100%;
+	height: 115px;
+	background-color: #000;
+	
+}
+
+.zhong{
+	margin: 5px 100px;
+	
+}
+
+.wei{
+	width: 100%;
+	height: 100px;
+	margin: 0 auto;
+	
+}
+.tou1{
+	width: 30px;
+	height:30px;
+	border-left: 13px solid transparent;
+	border-right: 13px solid red;
+	border-top: 13px solid red;
+	border-bottom: 13px solid red;
+	border-top-right-radius: 50px;
+	border-top-left-radius: 50px;
+	border-bottom-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+	transform: rotate(-10deg);
+	position:relative;
+	top: 4px;
+	
+}
+.tou1:before{
+	  content: "";
+	  display: block;
+	  width: 13px;
+      height: 66px;
+      border-right: 13px solid red;
+	  border-top: 3px solid transparent;
+	  border-bottom: 5px solid transparent;
+	  transform: rotate(-20deg);
+	  position:relative;
+	  top: 28px;
+	  left: -9px;
+	
+}
+.logowenzi{
+	width: 140px;
+	height: 20px;
+	margin-left: 50px;
+	font-size: 32px;
+	font-family: Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black," sans-serif";
+	color: yellow;
+	font-weight: bold;
+}
+ 
+                #tou3 {
+               
+                width: 30px;
+                height: 30px;
+                background-color:yellow;
+                border-radius: 50%;
+                margin: 100px  100px 50px 200px;
+			    border: 5px dotted hsla(10,75%,47%,1.00);
+				right:1%;
+				position: relative;
+				top: -220px;
+				right: -66%;
+				transform: rotate(30deg);	
+                }
+                #tou3:before {
+                content: '';
+                display:block;
+                width: 50px;
+                height:50px; 
+                border-radius: 50%;
+                
+               
+                border: 5px dotted yellow;
+				position: absolute;
+				top: -15px;
+				right:-15px;
+                }
+.tou2{
+	position: relative;
+	top: -40px;
+	width: 50%;
+    height: 70px;
+	margin-left: 25%;
+	font-family:Gill Sans, Gill Sans MT, Myriad Pro, DejaVu Sans Condensed, Helvetica, Arial," sans-serif";
+	 
+	font-size: 40px;
+	color:red;
+	font-weight: bold;
+	} 
+
+
+.zhong a:link{
+		font-size:15px;
+		font-weight: bold;
+		color: darkgreen;
+	}
+	
+	
+	.zhong a:active{
+		text-decoration: none;
+		color: red;}
+
+
+.wei a{
+	display: block;
+}
+.wei .wei-1{margin: 10px;}
+.wei .wei-1 a{
+	display: inline;
+     margin: 0 5%;
+}
+
+	
