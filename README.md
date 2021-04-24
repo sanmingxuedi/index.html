@@ -12,6 +12,7 @@
    <div class="main">
    	   <div class="tou">
    	     <div class="tou1"></div>
+             <div class="tou1-before"></div>
    	     <div class="logowenzi">三明学邸</div>
    	     <div class="tou2">问&nbsp;道&nbsp;循&nbsp;古&nbsp;路&nbsp;&nbsp;&nbsp;亲&nbsp;历&nbsp;古&nbsp;王&nbsp;都</div>
          <div id="tou3"></div>
