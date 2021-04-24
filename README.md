@@ -32,7 +32,7 @@
      <tr>
      <th style="border: hidden">
       <hr width="100%" size="12" color="red">
-      <h1>第一部 苦谛</h1><h2>第一节&nbsp;苦谛的真意</h2><h3>第一课&nbsp;<a href="one/jiaocai.html" target="new">世尊为什么宣讲苦谛</a></h3>
+      <h1>第一部 苦谛</h1><h2>第一节&nbsp;苦谛的真意</h2><h3>第一课&nbsp;<a href="jiaocai.html" target="new">世尊为什么宣讲苦谛</a></h3>
 		 <h3>第二课&nbsp;<a href="1">谛是唯一真理</a></h3>
     </th>
     
