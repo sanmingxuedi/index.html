@@ -2,6 +2,7 @@ body{margin:0}
 .main{
        position:absolute;
        top:0;
+       left:0;
 	width:100%;
 	overflow: hidden;
 	
@@ -64,7 +65,7 @@ body{margin:0}
 	  transform: rotate(-26deg);
 	  position:absolute;
 	  top: 43px;
-	  left: 11px;
+	  left: 5px;
 	  z-index: 101;
 }
 .logowenzi{
@@ -228,12 +229,12 @@ body{margin:0}
 	
      
 }
-.kid1{width: 40%;
+.kid1{width: 32%;
 	margin-left:10px;
 	word-break: break-all;
         float:left;
 }
-.kid2{width: 40%;
+.kid2{width: 32%;
 	margin-right:10px;
 	word-break: break-all;
         float:right;
