@@ -4,7 +4,8 @@
 	overflow: hidden;
 	position: absolute;
 	background-color: #e7f4fe;
-	
+	top:0;
+        left:0;
 	}
 	.tou{
 	overflow: hidden;	
@@ -226,19 +227,19 @@
      float: left;
 }
 .kid1{width: 35%;
-	padding: 2px 50px;
+	padding: 2px 5px;
 	word-break: break-all;
 }
 .kid2{width: 35%;
-	padding: 2px 50px;
+	padding: 2px 5px;
 	word-break: break-all;
 }
 .kid3{width: 35%;
-	padding: 2px 50px;
+	padding: 2px 5px;
 	word-break: break-all;
 }
 .kid4{width: 35%;
-	padding: 2px 50px;
+	padding: 2px 5px;
 	word-break: break-all;
 }
 	
