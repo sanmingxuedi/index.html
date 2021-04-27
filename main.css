@@ -2,10 +2,10 @@ body{margin:0}
 .main{
 	width:100%;
 	overflow: hidden;
-	position: absolute;
+	
 	background-color: #e7f4fe;
-	top:0;
-        left:0;
+	
+        
 	}
 	.tou{
 	overflow: hidden;	
@@ -35,8 +35,8 @@ body{margin:0}
 	float:left;
 }
 .tou1{
-	width: 30px;
-	height:30px;
+	width: 40px;
+	height:40px;
 	
 	border-left: 13px solid transparent;
 	border-right: 13px solid red;
@@ -224,22 +224,26 @@ body{margin:0}
 	overflow: hidden;
 	width: 100%;
 	
-     float: left;
+     
 }
 .kid1{width: 35%;
 	padding: 2px 5px;
 	word-break: break-all;
+        gloat:left;
 }
 .kid2{width: 35%;
 	padding: 2px 5px;
 	word-break: break-all;
+        float:right;
 }
 .kid3{width: 35%;
 	padding: 2px 5px;
 	word-break: break-all;
+        float:left;
 }
 .kid4{width: 35%;
 	padding: 2px 5px;
 	word-break: break-all;
+        float:right;
 }
 	
