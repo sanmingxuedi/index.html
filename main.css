@@ -1,5 +1,5 @@
 body{margin:0}
-.main{
+.main{margin:0;
 	width:100%;
 	overflow: hidden;
 	
@@ -35,8 +35,8 @@ body{margin:0}
 	float:left;
 }
 .tou1{
-	width: 40px;
-	height:40px;
+	width: 50px;
+	height:50px;
 	
 	border-left: 13px solid transparent;
 	border-right: 13px solid red;
