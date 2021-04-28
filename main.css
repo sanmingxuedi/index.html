@@ -38,7 +38,10 @@ body{margin:0}
 	border-right: 13px solid red;
 	border-top: 13px solid red;
 	border-bottom: 13px solid red;
-	Border-radius: 50%;
+       border-top-left-radius: 13px;
+       border-top-right-radius: 13px;
+       border-bottom-left-radius: 13px;
+       border-bottom-right-radius: 13px;
 	
 	transform: rotate(-10deg);
 	position:absolute;
