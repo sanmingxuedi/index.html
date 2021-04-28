@@ -46,8 +46,8 @@ body{margin:0}
 	transform: rotate(-10deg);
 	position:relative;
          top:4px;
-	 left:0;
-	float:left;
+	 left:10px;
+	
 }
 .tou1:before{
          content:"";
