@@ -11,10 +11,10 @@
 <body>
    <div class="main">
    	   <div class="tou">
-  	    <div class="toulogo">
-   	     <div class="tou1"></div>
-   	     <div class="tou1-before"></div>
-   	    </div>
+  	    
+   	     <div class="toulogo tou1"></div>
+   	     <div class="toulogo tou1-before"></div>
+   	    
    	     <div class="logowenzi" style="line-height: 150px">三明学邸</div>
    	    
 		  <div class="sun">
