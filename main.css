@@ -55,11 +55,11 @@ body{margin:0}
       height: 66px;
 	 
       border-right: 13px solid red;
-	  border-top: 1px solid transparent;
+	  border-top: 3px solid transparent;
 	  border-bottom: 5px solid transparent;
 	  transform: rotate(-15deg);
 	  
-	  top: 1px;
+	  top: 11px;
           left:-2px;
 	  
 	  
