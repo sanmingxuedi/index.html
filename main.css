@@ -50,7 +50,7 @@ body{margin:0}
 }
 .tou1:before{
          content:"";
-	 
+	 display:block;
 	  width: 13px;
       height: 66px;
 	 
@@ -59,6 +59,9 @@ body{margin:0}
 	  border-bottom: 5px solid transparent;
           
 	  transform: rotate(-15deg);
+         position:absolute;
+          top:32px;
+          left:-19px;
 	  
 	
 	  
