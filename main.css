@@ -72,14 +72,14 @@ body{margin:0}
 	width: 12rem;
 	height: 3rem;
 	
-	margin-left: 3rem;
-	font-size: 2.5rem;
+	margin-left: 3.5rem;
+	font-size: 2rem;
 	font-family: Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black," sans-serif";
 	color: yellow;
 	font-weight: bold;
        position:absolute;
 	top:4rem;
-	
+	z-index:500;
 }
 .sun {
 	  
