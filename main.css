@@ -38,10 +38,10 @@ body{margin:0}
 	border-right: 10px solid red;
 	border-top: 10px solid red;
 	border-bottom: 10px solid red;
-       border-top-left-radius: 80px;
-       border-top-right-radius: 80px;
-       border-bottom-left-radius: 80px;
-       border-bottom-right-radius: 80px;
+       border-top-left-radius: 40px;
+       border-top-right-radius: 40px;
+       border-bottom-left-radius: 40px;
+       border-bottom-right-radius: 40px;
 	
 	transform: rotate(-10deg);
 	position:absolute;
