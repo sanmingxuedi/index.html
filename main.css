@@ -69,15 +69,16 @@ body{margin:0}
 	  
 }
 .logowenzi{
-	width: 80px;
-	height: 20px;
-	overflow:visible;
+	width: 180px;
+	height: 3rem;
+	
 	margin-left: 80px;
 	font-size: 2.5rem;
 	font-family: Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black," sans-serif";
 	color: yellow;
 	font-weight: bold;
-	
+       position:absolute;
+	top:50px;
 	
 }
 .sun {
