@@ -61,7 +61,7 @@ body{margin:0}
           
 	  transform: rotate(-15deg);
          position:absolute;
-          top:180px;
+          top:70px;
           left:-20px;
 	  z-index:150;
 	
@@ -115,7 +115,7 @@ body{margin:0}
       transform: rotate(45deg);
 }
 .sunlight {
-      Width:40px;
+      Width:200px;
       Height: 4px;
 	  border: 1px solid blue; 
       Background: yellow;
