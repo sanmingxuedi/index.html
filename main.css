@@ -1,0 +1,249 @@
+
+body{margin: 0}
+.main{
+	
+	position: absolute;
+	top: 0;
+	left: 0;
+	width:100%;
+	background-color: #e7f4fe;
+	
+	}
+	.tou{
+	overflow: hidden;	
+	margin-top: 0px;
+	width: 100%;
+	height: 120px;
+	background-color: #000;
+	position: relative;
+}
+
+.zhong{
+	overflow: hidden;
+	margin: 5px 0px;
+	
+}
+
+.wei{
+	width: 100%;
+	height: 100px;
+	margin: 0 auto;
+	
+}
+
+.toutou{
+	margin: 0;
+	width: 50px;
+	height: 120px;
+	position: relative;
+	left: 1px;
+}	
+
+.tou1{
+	margin:10px;
+	width: 25px;
+	height:25px;
+	
+	border-left: 13px solid transparent;
+	border-right: 13px solid red;
+	border-top: 13px solid red;
+	border-bottom: 13px solid red;
+	border-top-left-radius: 25px;
+	border-top-right-radius: 25px;
+	border-bottom-left-radius: 25px;
+	border-bottom-right-radius: 25px;
+	
+	transform: rotate(-10deg);
+	position:absolute;
+	left: -13px;
+	
+	
+	
+	
+}
+.tou2{
+	  
+	  
+	  width: 8px;
+      height: 66px;
+	 
+      border-right: 13px solid red;
+	  border-top: 1px solid transparent;
+	  border-bottom: 4px solid transparent;
+	  transform: rotate(-15deg);
+	  position:absolute;
+	  left:5px;
+	  top:47px;
+	  
+	  }
+.logowenzi{
+	
+	width: 180px;
+	height:3rem;
+	
+	
+	font-size: 2.5rem;
+	font-family: Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black," sans-serif";
+	color: yellow;
+	font-weight: bold;
+	position: absolute;
+	top: 60px;
+	left: 40px;
+	
+	
+}
+.sunhezi{
+	width:50%;
+    height: 120px;
+	position: absolute;
+	left: 50%;
+	top: -120px;
+	position:relative;
+	overflow: hidden;
+	
+}
+
+ .sun {
+	  
+      
+      Width:40px;
+      Height:40px;
+      Border-radius: 50%;
+      Background: red;
+      Box-shadow: 0 0 21px #fe9e9e;
+      position: absolute;
+	  left: 80%;
+	  top: 20px;
+}
+.sun::before {
+      Width: 0;
+      Height: 80px;
+      Content: ‘’;
+      Border-left: 1px solid yellow;
+      Position: absolute;
+      Top: -150px;
+      Left:100px;
+      z-index: 200;
+      transform: rotate(45deg);
+}
+.sun::after {
+      Width:80px;
+      Height: 0;
+      Content: ‘’;
+      Border-top: 1px solid yellow;
+      Position: absolute;
+      Top: 100px;
+      Left: -150px;
+      z-index: 200;
+      transform: rotate(45deg);
+}
+
+.sunlight {
+      Width:100%;
+      Height: 4px;
+	  border: 1px solid blue; 
+      Background: yellow;
+      Position: absolute;
+      Left:0;
+	  Top:0; 
+    }
+.sl1 {Position: absolute;
+      Left: 166px;
+      Top: -243px;
+      Transform: rotate(90deg);
+} 
+.sl2 {Position: absolute;
+      Top: -300px;
+      Left:10px;
+      Transform: rotate(15deg);
+}
+
+.sl3 {Position: absolute;
+      Top: 120px;
+      Left: -115px;
+	  Transform: rotate(165deg);
+}
+.sl4 {
+      Top:256px;
+      Left: 365px;
+      Transform: rotate(45deg);
+}
+.sl5 {
+      Top: 335px;
+      Left: 165px;
+      Transform: rotate(90deg);
+}
+.sl6 {
+      Top:155px;
+      Left: 421px;
+      Transform: rotate(-155deg);
+}
+
+.sl7 {
+      Top: 32px;
+      Left: -125px;
+}
+.sl8 {
+      Top: -115px;
+      Left: -84px;
+      Transform: rotate(30deg);
+}
+
+.sl9 {
+      Top:265px;
+      Left:-30px;
+      Transform: rotate(133deg);
+}
+ 
+               
+               
+
+
+
+.zhong a:link{
+		font-size:15px;
+		font-weight: bold;
+		color: darkgreen;
+	}
+	
+	
+	.zhong a:active{
+		text-decoration: none;
+		color: red;}
+
+
+.wei a{
+	display: block;
+}
+.wei .wei-1{margin: 10px;}
+.wei .wei-1 a{
+	display: inline;
+     margin: 0 5%;
+}
+.kid{
+	overflow: hidden;
+	width: 100%;
+	
+    
+}
+.kid1{width: 32%;
+	margin-left: 10px;
+	word-break: break-all;
+	float: left;
+}
+.kid2{width: 32%;
+	margin-right: 10px;
+	word-break: break-all;
+	float: right;
+}
+.kid3{width: 32%;
+	margin-left: 10px;
+	word-break: break-all;
+	float:left;
+}
+.kid4{width: 32%;
+	margin-right: 10px;
+	word-break: break-all;
+	float: right;
+}
+	
