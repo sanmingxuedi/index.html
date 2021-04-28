@@ -31,17 +31,17 @@ body{margin:0}
       }
 .tou1{ 
        margin:10px;
-	width: 60px;
-	height:60px;
+	width: 80px;
+	height:80px;
 	
 	border-left: 10px solid transparent;
 	border-right: 10px solid red;
 	border-top: 10px solid red;
 	border-bottom: 10px solid red;
-       border-top-left-radius: 60px;
-       border-top-right-radius: 60px;
-       border-bottom-left-radius: 60px;
-       border-bottom-right-radius: 60px;
+       border-top-left-radius: 80px;
+       border-top-right-radius: 80px;
+       border-bottom-left-radius: 80px;
+       border-bottom-right-radius: 80px;
 	
 	transform: rotate(-10deg);
 	position:absolute;
