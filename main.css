@@ -50,17 +50,14 @@ body{margin:0}
 }
 .tou1:before{
          content:"";
-	  
+	  margin:0;
 	  width: 13px;
       height: 66px;
 	 
       border-right: 13px solid red;
 	  border-top: 3px solid transparent;
 	  border-bottom: 5px solid transparent;
-          Position: absolute;
-      Top: -150px;
-      Left: 100px;
-      z-index: 200;
+          
 	  transform: rotate(-15deg);
 	  
 	  top: 11px;
