@@ -61,15 +61,15 @@ body{margin:0}
           
 	  transform: rotate(-15deg);
          position:absolute;
-          top:35px;
-          left:-23px;
+          top:25px;
+          left:-13px;
 	  
 	
 	  
 	  
 }
 .logowenzi{
-	width: 6rem;
+	width: 8rem;
 	height: 3rem;
 	
 	margin-left: 3rem;
@@ -78,7 +78,7 @@ body{margin:0}
 	color: yellow;
 	font-weight: bold;
        position:absolute;
-	top:60px;
+	top:3rem;
 	
 }
 .sun {
