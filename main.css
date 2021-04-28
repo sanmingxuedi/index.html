@@ -44,7 +44,8 @@ body{margin:0}
        border-bottom-right-radius: 30px;
 	
 	transform: rotate(-10deg);
-	position:absolute;
+	position:relative;
+         top:4px;
 	
 	
 }
