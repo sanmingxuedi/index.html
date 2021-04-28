@@ -47,7 +47,7 @@ body{margin:0}
 	position:relative;
          top:4px;
 	 left:0;
-	
+	float:left;
 }
 .tou1:before{
          content:"";
