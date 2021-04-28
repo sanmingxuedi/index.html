@@ -41,17 +41,17 @@ body{margin: 0}
 
 .tou1{
 	
-	width: 40px;
-	height:40px;
+	width: 50px;
+	height:50px;
 	
 	border-left: 13px solid transparent;
 	border-right: 13px solid red;
 	border-top: 13px solid red;
 	border-bottom: 13px solid red;
-	border-top-left-radius:40px;
-	border-top-right-radius:40px;
-	border-bottom-left-radius:40px;
-	border-bottom-right-radius: 40px;
+	border-top-left-radius:50px;
+	border-top-right-radius:50px;
+	border-bottom-left-radius:50px;
+	border-bottom-right-radius: 50px;
 	
 	transform: rotate(-10deg);
 	position:absolute;
@@ -89,7 +89,7 @@ body{margin: 0}
 	font-weight: bold;
 	position: absolute;
 	top: 60px;
-	left:60px;
+	left:65px;
 	
 	
 }
