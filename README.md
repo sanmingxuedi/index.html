@@ -8,7 +8,7 @@
 </head>
 
 
-<body style="margin: 0;">
+<body>
    <div class="main">
    	   <div class="tou">
   	    <div class="toulogo">
