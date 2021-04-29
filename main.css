@@ -31,52 +31,20 @@ body{margin: 0}
 	
 }
 
-.toutou{
-	margin: 0;
-	width: 50px;
-	height: 120px;
-	position: relative;
-	left: 20px;
-}	
-
 .tou1{
-	
 	width: 50px;
-	height:50px;
-	
-	border-left: 13px solid transparent;
-	border-right: 13px solid red;
-	border-top: 13px solid red;
-	border-bottom: 13px solid red;
-	border-top-left-radius:50px;
-	border-top-right-radius:50px;
-	border-bottom-left-radius:50px;
-	border-bottom-right-radius: 50px;
-	
-	transform: rotate(-10deg);
-	position:absolute;
-	left: -13px;
-	top: 10px;
+	height:3rem;
 	
 	
-	
-	
+	font-size:6rem;
+	font-family: Impact, Haettenschweiler, Franklin Gothic Bold, Arial Black," sans-serif";
+	color:red;
+	font-weight: bold;
+	text-shadow: 0px 0px 21px #fe9e9e;
+	position: absolute;
+	top:10px;
+	left:10px;
 }
-.tou2{
-	  
-	  
-	  width: 8px;
-      height: 66px;
-	 
-      border-right: 13px solid red;
-	  border-top: 1px solid transparent;
-	  border-bottom: 4px solid transparent;
-	  transform: rotate(-15deg);
-	  position:absolute;
-	  left:5px;
-	  top:47px;
-	  
-	  }
 .logowenzi{
 	
 	width: 180px;
@@ -89,7 +57,7 @@ body{margin: 0}
 	font-weight: bold;
 	position: absolute;
 	top: 60px;
-	left:65px;
+	left:70px;
 	
 	
 }
